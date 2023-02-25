@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="add_data">adddata</string>
+    <string name="add_data_msg">add data msg</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="modify_data">modify data</string>
+    <string name="modify_data_msg">modify data msg</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">delete</string>
+</resources>
